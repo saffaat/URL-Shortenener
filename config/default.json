@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://elasticrun:ntex%40123@elasticcluster.jlysk.mongodb.net/test",
+    "baseURL" : "http://localhost:9000"
+}
